@@ -7,10 +7,10 @@
 
 Ткже необходимо настроить вебхуки для уведомлений:
 
-[Success alerts](https://i.imgur.com/hy36o55.png)
+![Success alerts](https://i.imgur.com/hy36o55.png)
 
-[Bad alerts](https://i.imgur.com/7bVGpRZ.png)
+![Bad alerts](https://i.imgur.com/7bVGpRZ.png)
 
-[Restock alerts](https://i.imgur.com/8NgtTTx.png)
+![Restock alerts](https://i.imgur.com/8NgtTTx.png)
 
 p.s. Бот тестировался в последний раз год назад
